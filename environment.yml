@@ -24,3 +24,6 @@ dependencies:
   - Ipython
   - xmitgcm
   - ffmpeg
+  - pip
+  - pip:
+    - git+https://github.com/malmans2/oceanspy.git@fix_test
