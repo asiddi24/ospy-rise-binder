@@ -9,3 +9,18 @@ dependencies:
   - pandas
   - bokeh
   - rise
+  - dask
+  - distributed
+  - bottleneck
+  - netCDF4
+  - xarray
+  - cartopy
+  - esmpy
+  - intake-xarray
+  - geopy
+  - xesmf
+  - esmf
+  - xgcm
+  - Ipython
+  - xmitgcm
+  - ffmpeg
