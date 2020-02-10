@@ -1,3 +1,7 @@
+# Test dataset
+tmp.tar.gz
+OSM2020_EGshelfIIseas2km_ERAI_1D/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
