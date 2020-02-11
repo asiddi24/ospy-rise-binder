@@ -6,9 +6,9 @@
 * OSM2020.ipynb: https://bndr.it/7dsz
 
 # Useful commands
-* download data: . ./postBuild
-* blacken: black-nb --clear-output .
-* to html: jupyter nbconvert --to slides --execute notebook.ipynb 
+* download `data: . ./postBuild`
+* blacken: `black-nb --clear-output .`
+* to html: `jupyter nbconvert --to slides --execute notebook.ipynb`
 
 RISE allows you to quickly generate a live, interactive presentation from a
 Jupyter Notebook that is connected to the underlying Kernel of the notebook.
