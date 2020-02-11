@@ -27,3 +27,4 @@ presentation will automatically begin.
 
 See the [RISE Documentation](https://damianavila.github.io/RISE/)
 for more information.
+
