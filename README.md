@@ -6,7 +6,8 @@
 * OSM2020.ipynb: https://bndr.it/7dsz
 
 # Useful commands
-* download `data: . ./postBuild`
+* install environment: `conda env create -f binder/environment.yml`
+* download data and setup: `. binder/postBuild`
 * blacken: `black-nb --clear-output .`
 * to html: `jupyter nbconvert --to slides --execute notebook.ipynb`
 

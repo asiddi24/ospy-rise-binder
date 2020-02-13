@@ -1,6 +1,5 @@
 name: rise-environment
 channels:
-  - damianavila82
   - conda-forge
 dependencies:
   - python
@@ -27,4 +26,5 @@ dependencies:
   - tqdm
   - pip
   - pip:
-    - git+https://github.com/malmans2/oceanspy.git@fix_test
+    - git+https://github.com/malmans2/oceanspy.git
+    - jupyter-contrib-nbextensions
